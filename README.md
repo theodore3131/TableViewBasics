@@ -6,5 +6,4 @@
 
 ## Design
 `ScreenShots`
-![](SreenShots\Screen Shot 1)
-![](SreenShots\Screen Shot 2)
+![](ScreenShots)
