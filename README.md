@@ -5,5 +5,6 @@
 - a button called Back that can return to the table View
 
 ## Design
-`ScreenShots`
-![](ScreenShots)
+### ScreenShots
+![](ScreenShots/ScreenShot1.png)
+![](ScreenShots/ScreenShot2.png)
